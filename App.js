@@ -7,7 +7,7 @@ const App = () => {
     <View style={styles.container}>
       <Text>Hello</Text>
       <Text>Feat A doing</Text>
-
+      <Text style={{fontSize:20,color:'red'}}>Feat B doing</Text>
     </View>
   )
 }
